@@ -29,10 +29,10 @@ OS Type选项，设置为 Other OS
 设置 XHCI Handoff 为 开启  
 
 ## 安装后工具
-Hackintool
-iStat Menus
-Disk Spped Test
-Clover Configurator
+Hackintool  
+iStat Menus  
+Disk Spped Test  
+Clover Configurator  
 
 ## 未来更新
 内存增加一条16G组合为双通道  
