@@ -50,4 +50,4 @@ Clover Configurator
 
 ## 特别鸣谢
 感谢[@ParkinWu](https://github.com/ParkinWu/EFI-B360-AORUS-PRO-HUD630-8700)分享的EFI文件。  
-感谢[@YellBinn](https://github.com/YellBinn/GIGABYTE-B360M-AORUS-PRO-8400-EFI-Hackintosh)提供的安装资料
+感谢[@YellBinn](https://github.com/YellBinn/GIGABYTE-B360M-AORUS-PRO-8400-EFI-Hackintosh)提供的安装资料。
