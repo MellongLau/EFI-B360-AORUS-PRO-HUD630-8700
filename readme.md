@@ -36,7 +36,7 @@ Clover Configurator
 
 ## 未来更新
 内存增加一条16G组合为双通道  
-加独立显卡RX580或者RX590 
+加独立显卡RX580或者RX590  
 加Dell 27寸4K显示器实现retina显示  
 
 ## 问题及解决方法
