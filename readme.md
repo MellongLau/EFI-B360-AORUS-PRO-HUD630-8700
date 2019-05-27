@@ -49,4 +49,5 @@ Clover Configurator
 这个问题比较奇怪，用的USB2.0，但是第二次重启后还是不行，直接拔了插到USB3.0的接口重启安装一切正常。
 
 ## 特别鸣谢
-感谢[@ParkinWu](https://github.com/ParkinWu/EFI-B360-AORUS-PRO-HUD630-8700)分享的EFI文件。
+感谢[@ParkinWu](https://github.com/ParkinWu/EFI-B360-AORUS-PRO-HUD630-8700)分享的EFI文件。  
+感谢[@YellBinn](https://github.com/YellBinn/GIGABYTE-B360M-AORUS-PRO-8400-EFI-Hackintosh)提供的安装资料
