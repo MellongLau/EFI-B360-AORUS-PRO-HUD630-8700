@@ -1,9 +1,10 @@
 ## 硬件配置
 **CPU** I7 8700  
 **主板** 技嘉 B360 M AORUS PRO 小雕  
-**内存** 海盗船 DDR4 3200 16G  
-**固态硬盘** SN750 M.2 Nvme 1TB  
+**内存** 海盗船 DDR4 3200 32G（16GX2双通道，只能超频到2666）  
+**固态硬盘** MacOS 三星870 EVO SSD 500G, Win10 SN750 M.2 Nvme 1TB  
 **WIFI和蓝牙** BCM943602CS2 两天线版  
+**显卡** 蓝宝石RX590 8G 超白金  
 **显示器** Dell 24寸  
 **机箱** 追风者416PSTG钢化玻璃RGB静音豪华版  
 
@@ -35,8 +36,6 @@ Disk Spped Test
 Clover Configurator  
 
 ## 未来更新
-内存增加一条16G组合为双通道  
-加独立显卡RX580或者RX590  
 加Dell 27寸4K显示器实现retina显示  
 
 ## 问题及解决方法
@@ -47,6 +46,9 @@ Clover Configurator
 
 2. 安装第二次启动剩余15分钟自动重启问题，无法安装.  
 这个问题比较奇怪，用的USB2.0，但是第二次重启后还是不行，直接拔了插到USB3.0的接口重启安装一切正常。
+
+3. Win10使用SN750可能出现蓝屏重启，特别是冷启动的时候更容易蓝屏。
+解决方法是安装主板官网最新驱动，关闭win10的快速启动功能（在电源设置里面关闭）。
 
 ## 特别鸣谢
 感谢[@ParkinWu](https://github.com/ParkinWu/EFI-B360-AORUS-PRO-HUD630-8700)分享的EFI文件。  
