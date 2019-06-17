@@ -2,7 +2,7 @@
 **CPU** I7 8700  
 **主板** 技嘉 B360 M AORUS PRO 小雕  
 **内存** 海盗船 DDR4 3200 32G（16GX2双通道，只能超频到2666）  
-**固态硬盘** MacOS 三星870 EVO SSD 500G, Win10 SN750 M.2 Nvme 1TB  
+**固态硬盘** MacOS 三星860 EVO SSD 500G, Win10 SN750 M.2 Nvme 1TB  
 **WIFI和蓝牙** BCM943602CS2 两天线版  
 **显卡** 蓝宝石RX590 8G 超白金  
 **显示器** Dell 24寸  
