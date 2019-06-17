@@ -33,6 +33,7 @@ OS Type选项，设置为 Other OS
 Hackintool  
 iStat Menus  
 Disk Spped Test  
+Geekbench 4  
 Clover Configurator  
 
 ## 未来更新
