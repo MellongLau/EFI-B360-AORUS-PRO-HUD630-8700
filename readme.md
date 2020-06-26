@@ -9,7 +9,7 @@
 **机箱** 追风者416PSTG钢化玻璃RGB静音豪华版  
 
 ## 系统版本
-macOS Mojave 10.15.5
+macOS Catalina 10.15.5
 
 ## 完美驱动
 声卡  
