@@ -37,7 +37,11 @@ Geekbench 4
 Clover Configurator  
 
 ## 未来更新
-暂无
+* 改用 OpenCore 引导
+* 尝试升级到 macOS Big Sur 10.16 Beta
+* 加 16GX2 内存，达到64G 内存
+* 加 1T 三星860 EVO SSD 和 4T 西部数据64M蓝盘硬盘
+* 加小米显示器挂灯和明基显示器挂灯
 
 ## 问题及解决方法
 1. 两天线BCM943602CS网速变慢，要重启才恢复，每次睡眠唤醒后网速变慢，蓝牙出现问题容易卡顿。  
